@@ -1,0 +1,36 @@
+<background>
+  <starttime>
+    <year>2021</year>
+    <month>05</month>
+    <day>03</day>
+    <hour>6</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- Replace <your-username> with your Ubuntu Username e.g:/home/ahsanf/Pictures/Wallpapers/BigSur-Abstract/1.jpg -->
+  <!-- Move Wallpapers folder to Pictures folder -->
+  
+  <!-- 06:00 -->
+  <static>
+    <duration>43195.0</duration>
+    <file>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/2.jpg</from>
+    <to>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/1.jpg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>43195.0</duration>
+    <file>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/1.jpg</from>
+    <to>/home/<your-username>/Pictures/Wallpapers/BigSur-Abstract/2.jpg</to>
+  </transition>
+</background>
+
+
+
