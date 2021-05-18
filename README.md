@@ -1,7 +1,7 @@
 # MacOS BigSur Abstract Dynamic Wallpaper on Ubuntu
+An dynamic wallpaper that make your Ubuntu looks like macOS BigSur. Works properly on **Ubuntu 20.04 LTS**
 
 # Dependencies
-* [GNOME](https://gnome.org)
 * GNOME Tweaks Tool
 
 # Installation
@@ -15,9 +15,15 @@
     ```
 # How to use
 1. Edit **bigsur-abstract.xml** file and replace ```<your-username>``` with your username
-2. Open Tweaks and set Image on Background section with **bigsur-abstract.xml**, it will be like
-<a href="https://ibb.co/VD6pP0d"><img src="https://i.ibb.co/1KcJwY3/Whats-App-Image-2021-05-18-at-00-06-13.jpg" alt="Whats-App-Image-2021-05-18-at-00-06-13" border="0" /></a>
-3. Move Wallpapers folder to your **Pictures** directory
+2. Open **Tweaks** and set Image on Background section with **bigsur-abstract.xml**, it will be like this
+<a href="https://ibb.co/2ZCkbR0"><img src="https://i.ibb.co/kmwSdzV/Screenshot-from-2021-05-18-16-50-24.png" alt="Screenshot-from-2021-05-18-16-50-24" border="0"></a>
+3. Move/Copy Wallpapers folder to your **Pictures** directory
+
+# Result
+Day | Night
+------------ | -------------
+<a href="https://ibb.co/Ykkg8q2"><img src="https://i.ibb.co/FwwpJj6/Screenshot-from-2021-05-18-16-39-42.png" alt="Screenshot-from-2021-05-18-16-39-42" border="0"></a> | <a href="https://ibb.co/SKPhZF8"><img src="https://i.ibb.co/ZhVnbqP/Screenshot-from-2021-05-18-18-07-11.png" alt="Screenshot-from-2021-05-18-18-07-11" border="0"></a>
+
 
 # Credits
 1. Wallpaper
