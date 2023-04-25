@@ -13,6 +13,8 @@ An dynamic wallpaper that make your Ubuntu looks like macOS BigSur. Works proper
      ```javascript
    sudo apt install gnome-tweaks
     ```
+* Download the Wallpaper and put in pictures folder (or whatever) 😀
+
 # How to use
 1. Edit **bigsur-abstract.xml** file and replace ```<your-username>``` with your username
 2. Open **Tweaks** and set Image on Background section with **bigsur-abstract.xml**, it will be like this
